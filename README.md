@@ -9,19 +9,17 @@ This is my portofolio as a QA Engineer
    - Test Case and Test Cycle in Jira
    - Test Automation with Katalon
 
-<h4>About Me</h4>
-______________________________________________________________________________________________________________________________
+# <h4>About Me</h4> 
 
 A dedicated Associate QA Engineer with 2 years of experience in the financial industry. Specializing in developing,
 implementing, and managing testing strategies to ensure high quality of financial-related software products. Possesses a
 deep understanding of financial processes and expertise in ensuring system compliance and reliability.
 
-<h4>CV</h4>
-------------------------------------------------------------------------------------------------------------------------------------------------------------- <br>
+# <h4>CV</h4>
+
 You can download my CV as <a href = 'https://drive.google.com/file/d/1N5A2EQnz-vZln-ZSiVOmQAG66N-uh6Tt/view?usp=sharing'> a PDF from my Google Drive </a>
 
-<h4>Skills</h4>
---------------------------------------------------------------------------------------------------- <br>
+# <h4>Skills</h4>
 
 Manual testing
 - Can perform manual functional and usability testing of web applications
@@ -52,8 +50,7 @@ SQL databases
 - Familiar with the use of aliases and wildcards
 - know the difference between joins and unions and can use them in queries
 
-<h4>Tools</h4>
----------------------------------------------------------------------------------------------------<br>
+# <h4>Tools</h4>
 
 - Jira
 - Postman
@@ -62,8 +59,7 @@ SQL databases
 - Cucumber Gherkin
 - DBeaver
 
-<h4>Example of my works</h4>
----------------------------------------------------------------------------------------------------<br>
+# <h4>Example of my works</h4>
 
 <h5>Test Case and Test Cycle in Jira</h5>
 
