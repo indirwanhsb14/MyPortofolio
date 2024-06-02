@@ -10,17 +10,19 @@ This is my portofolio as a QA Engineer
    - Test Automation with Katalon
 
 <h4>About Me</h4>
------------------------------------------------------------------------------------------------------------------------------
+______________________________________________________________________________________________________________________________
+
 A dedicated Associate QA Engineer with 2 years of experience in the financial industry. Specializing in developing,
 implementing, and managing testing strategies to ensure high quality of financial-related software products. Possesses a
 deep understanding of financial processes and expertise in ensuring system compliance and reliability.
 
 <h4>CV</h4>
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------- <br>
 You can download my CV as <a href = 'https://drive.google.com/file/d/1N5A2EQnz-vZln-ZSiVOmQAG66N-uh6Tt/view?usp=sharing'> a PDF from my Google Drive </a>
 
 <h4>Skills</h4>
----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------- <br>
+
 Manual testing
 - Can perform manual functional and usability testing of web applications
 - Gained hands-on experience by testing applications
@@ -51,7 +53,8 @@ SQL databases
 - know the difference between joins and unions and can use them in queries
 
 <h4>Tools</h4>
----------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------<br>
+
 - Jira
 - Postman
 - Visual Studio Code
@@ -60,13 +63,16 @@ SQL databases
 - DBeaver
 
 <h4>Example of my works</h4>
----------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------<br>
+
 <h5>Test Case and Test Cycle in Jira</h5>
-    - Test Case for checking login with valid phone number using the OTP. Check by this <a href = 'https://drive.google.com/file/d/19RRv-7i-F3ZHCsIBySZt90_vOSa-xEHx/view?usp=sharing'>link</a>
-    - Test Result Example. Check by this <a href = 'https://drive.google.com/file/d/1USxpITKaawgpMYGw0dNlCKGeRkS6hPxI/view?usp=sharing'>link</a>
+
+- Test Case for checking login with valid phone number using the OTP. Check by this <a href = 'https://drive.google.com/file/d/19RRv-7i-F3ZHCsIBySZt90_vOSa-xEHx/view?usp=sharing'>link</a>
+- Test Result Example. Check by this <a href = 'https://drive.google.com/file/d/1USxpITKaawgpMYGw0dNlCKGeRkS6hPxI/view?usp=sharing'>link</a>
     
 <h5>Test Automation with Katalon</h5>
-    - Test automation API. Check by this <a href = 'https://github.com/indirwanhsb14/Demo_ProjectAPI_Katalon'>link</a> 
-    - Test automation Web. Check by this <a href = 'https://github.com/indirwanhsb14/Demo_ProjectWeb_Katalon'>link</a>
-    - Test automation Mobile. Check by this <a href = 'https://github.com/indirwanhsb14/Demo_ProjectMobile_Katalon'>link</a> 
+
+- Test automation API. Check by this <a href = 'https://github.com/indirwanhsb14/Demo_ProjectAPI_Katalon'>link</a> 
+- Test automation Web. Check by this <a href = 'https://github.com/indirwanhsb14/Demo_ProjectWeb_Katalon'>link</a>
+- Test automation Mobile. Check by this <a href = 'https://github.com/indirwanhsb14/Demo_ProjectMobile_Katalon'>link</a> 
     
